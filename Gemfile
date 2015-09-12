@@ -51,3 +51,5 @@ group :development do
   gem 'spring'
 end
 
+# Pagination!
+gem 'kaminari'
